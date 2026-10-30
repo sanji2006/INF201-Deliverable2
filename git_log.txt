@@ -1,0 +1,19 @@
+* cb5e637 - Sanji, 3 minutes ago : Adding requirements.txt and .venv/ in .gitignore
+* 4a6b3de - Sanji, 13 minutes ago : Fixing and cleaning task_1,5
+*   f386885 - sanji2006, 55 minutes ago : Merge pull request #1 from sanji2006/feature/task2_3
+|\  
+| * 88627e2 - Sanji, 65 minutes ago : Tidy Tasks 2-4 and add type hints
+| * f5d1e91 - Sanji, 2 days ago : Add type hints and tidy Tasks 2-4
+| * a792067 - Sanji, 3 days ago : Add task 2-4 with comments
+| * e0f3d33 - Sanji, 3 days ago : Add explanatory comments
+| * 9bf2a7a - Sanji, 3 days ago : Add Task 4 functions and test
+| * d91eec0 - Sanji, 3 days ago : Add Task 2 and 3 with headings
+| * ed41afe - Sanji, 6 days ago : Add Task 2 functions (recursive search, active registers)
+| * bfcbe84 - Sanji, 6 days ago : Fix BASE_DIR path in data generator and ignore data folder
+* | a04f5fe - Sajjad, 2 days ago : Enhance comments and error handling in oppgv1.py
+* | 10aa388 - Sajjad, 2 days ago : Add functions to read and parse log files
+* | 279f604 - Sajjad, 2 days ago : Add transaction log processing and report generation
+|/  
+* 4a6a072 - sanji2006, 6 days ago : Add README with setup instructions for project
+* acebd5e - sanji2006, 6 days ago : Add data file to repo
+* 21da2ec - sanji2006, 6 days ago : Initial commit
