@@ -221,3 +221,6 @@ __marimo__/
 
 # Generated input data
 data/
+
+# Virtual environment
+.venv/
